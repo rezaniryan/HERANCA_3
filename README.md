@@ -12,6 +12,14 @@ Todas as classes devem ter seus construtores e um método que gera o comando ins
 
 Crie vários objetos para testar as classes e seus métodos.
 
+
+![Diagrama UML](assets/Automovel.png)
+![Diagrama UML](assets/Bicicleta.png)
+![Diagrama UML](assets/Caminhao.png)
+![Diagrama UML](assets/Console.png)
+![Diagrama UML](assets/Motocicleta.png)
+![Diagrama UML](assets/Skate.png)
+
 ## 🛠️ Construído com
 
 * IDE Eclipse
